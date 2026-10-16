@@ -3,8 +3,12 @@
 	- WRITES to SD card with TF Card Reader module using SPI
 	- overall: probably use SPI for everything
 
-Arduino SD card read/write guide: https://docs.arduino.cc/learn/programming/sd-guide/
+SD Card R/W
+	Arduino SD card read/write guide: https://docs.arduino.cc/learn/programming/sd-guide/
+	Arduino SD library documentation: https://docs.arduino.cc/libraries/sd/
 
 ESP32 general reference: https://docs.arduino.cc/tutorials/nano-esp32/cheat-sheet/
+Arduino SPI Library docs: https://docs.arduino.cc/language-reference/en/functions/communication/SPI/
 
-Adafruit Gyroscope Libraries: https://adafruit.github.io/Adafruit_LSM6DS/html/annotated.html
+
+Adafruit Gyroscope Libraries: https://adafruit.github.io/Adafruit_LSM6DS/html/class_adafruit___l_s_m6_d_s_o_x.html#a98ef3a8399e0b9de5392c579fb0d175f
